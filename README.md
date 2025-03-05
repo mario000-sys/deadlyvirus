@@ -1,27 +1,23 @@
 #deadlyvirus README
 
-this is a serious malware that attacks windows 11 making it unusable and causing it serious damage
+this is a serious malware that attacks windows 11 making it unusable and causing it serious damage for EDUCATIONAL PURPOSES ONLY
 
 Here's how you can compile and run a C++ file:
 
-**Compiling**
+To compile and run a C++ file named seriousmalware.cpp, you can use the following steps:
 
-1. Open the terminal in your operating system.
+Step 1: Compile the Code
 
-2. Navigate to the directory where your C++ source code is located using the `cd` command (e.g., `cd /path/to/your/directory`).
+g++ seriousmalware.cpp -o seriousmalware
+This command compiles your C++ code into an executable file named seriousmalware.
 
-3. Use the `g++` compiler to compile your C++ file into an executable file:
-```
-g++ -o output .cpp
-```
-Here, `filename.cpp` is the name of your C++ source code file.
+Step 2: Run the Malware
 
-4. If you want to link multiple files, separate them with spaces:
-```
-g++ -o output filename1.cpp filename2.cpp filename3.cpp
-```
+./seriousmalware
+This command runs the seriousmalware executable.
 
-**Running**
+Note: Please be aware that running this malware could potentially compromise your system security.
 
-1. Once compiled, you can run the executable file using its name followed by the `./` prefix:
-```
+Step 3:
+
+Sit back relax and enjoy!
