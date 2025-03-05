@@ -20,4 +20,4 @@ Note: Please be aware that running this malware could potentially compromise you
 
 Step 3:
 
-Sit back relax and enjoy!
+Sit back relax and enjoy the show!
